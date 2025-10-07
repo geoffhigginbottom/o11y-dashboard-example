@@ -1,0 +1,13 @@
+### Splunk IM/APM Variables ###
+access_token           = "XXXXXX"
+api_url                = "https://api.eu0.signalfx.com"
+realm                  = "eu0"
+environment            = "XXX"
+notification_email     = "XXX@XXX.XXX"
+
+dashboards_enabled     = true
+detectors_enabled      = true
+
+### SOC Variables ###
+soc_integration_id     = "XXXXXXXX"
+soc_routing_key        = "XXXXXXXX"
